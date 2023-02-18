@@ -1,0 +1,265 @@
+body{
+    margin: 0;
+}
+.container{
+    height: 1250px;
+}
+.head{
+    height: 30px;
+    
+    cursor: pointer;
+    font-family: futura-pt,sans-serif;
+}
+.place{
+    padding-left: 1150px;
+    padding-bottom: 12px
+}
+.help{
+    padding-left: 25px;
+    width: 15px;
+    height: 15px
+}
+.head2{
+    height: 60px;
+    background-color: black;
+    display: flex;
+    font-family: futura-pt,sans-serif;
+    cursor: pointer;
+}
+
+.image1{
+    height: 40px;
+    padding-top: 6px;
+    padding-left: 110px;  
+    
+}
+.women{
+    color: white;
+margin-top: 10px;
+font-weight: bold;
+size: 15px;
+
+
+}
+.men{
+    color: white;
+padding-left: 25px;
+font-weight: bold;
+size: 20px;
+margin-top: 100px;
+
+
+}
+.search{
+    width: 785px;
+    height: 35px;
+    margin-left: 70px;
+    margin-top: 10px;
+    border-radius: 20px;
+    border-color: none;
+}    
+.image2{
+    height: 22px;
+    padding-left: 27px;
+    padding-top: 15px;
+    
+}
+.head3{
+    height: 50px;
+    background-color: rgb(38, 224, 102);
+    display: flex;
+    font-family: futura-pt,sans-serif;
+    cursor: pointer;
+}
+.button1{
+    background-color: rgb(38, 224, 102);
+    width: 85px;
+    height: 27px;
+    margin: 10px;
+    margin-left: 115px;
+    border-width: 2px;
+    font-weight: bold;
+}
+.offer{
+    font-size: 13px;
+    margin-left: 430px;
+    letter-spacing: 2px;
+    font-weight: 700;
+    margin-top: 2px;
+    font-family: Futura-pt,Futura STD,Arial,Verdana,sans-serif;
+}
+.button2{
+    background-color: rgb(38, 224, 102);
+    width: 85px;
+    height: 27px;
+    margin: 10px;
+    margin-left: 430px;
+    border-width: 2px;
+    font-weight: bold;
+
+}
+.head4{
+   height: 60px;
+    
+}
+.main-body{
+    margin-left: 65px;
+    margin-right: 65px;
+    height: 650px;
+    background-image: url('https://content.asos-media.com/-/media/homepages/unisex/generic-hp/jan-2023/generic-hp/generic-hp-desktop-unisex-1400x698.jpg');
+}
+.box1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.inner-box{
+    background-color: white; 
+    width: 360px;
+     height: 75px;
+     margin-top: 215px;
+}
+.asos-head{
+    margin-top: 5px;
+    font-size: 56px;
+    margin-left: 6px;
+    font-family: Futura-pt,Futura STD,Arial,Verdana,sans-serif;
+}
+.box2{
+    
+   margin-left: 550px;
+   margin-top: -215px;
+
+}
+.outer-box{
+    background-color: white; 
+    width: 300px;
+    height: 30px;
+    margin-top: 215px;
+}
+.asos-brand{
+    margin-top: 5px;
+    font-size: 18px;
+    margin-left: 6px;
+    font-family: Futura-pt,Futura STD,Arial,Verdana,sans-serif;
+    padding-left: 6px;
+    font-weight: lighter;
+}
+.button3{
+    cursor: pointer; 
+    margin-left: 510px;
+    margin-top: 30px;
+    height: 40px;
+    width: 170px;
+    font-family: Futura-PT,FuturaStd,Tahoma,Arial,Verdana,Sans-Serif;
+    font-weight: bolder;
+    font-size: 15px;
+}
+.button4{
+    cursor: pointer; 
+    margin-left: 50px;
+    margin-top: 30px;
+    height: 40px;
+    width: 170px;
+    font-family: Futura-PT,FuturaStd,Tahoma,Arial,Verdana,Sans-Serif;
+    font-weight: bolder;
+    font-size: 15px;
+}
+.button3:hover{
+    background-color: black;
+    color: white;
+}
+.button4:hover{
+    background-color: black;
+    color: white;
+}
+.head5{
+    height: 60px;
+    background-color: #2d2d2d;
+    display: flex;
+    font-family: futura-pt,sans-serif;
+    margin-top: 260px;
+}
+.delivery{
+    color: white;
+    margin-left: 220px;
+    margin-top: 15px;
+    font-family: futura-pt,sans-serif;
+    letter-spacing: 2px;
+    font-weight: 800;
+}
+.design{
+    color: white;
+    margin-left: 450px;
+    margin-top: 15px;
+    font-family: futura-pt,sans-serif;
+    letter-spacing: 2px;
+    font-weight: 800;
+    
+}
+.head6{
+    height: 140px;
+}
+.facebook{
+width:30px; 
+height:30px; 
+margin-top: 70px;
+margin-left: 500px;
+}
+.instagram{
+    width:30px; 
+    height:30px; 
+    margin-top: 70px;
+    margin-left: 60px;
+}
+.visa{
+    width:40px; 
+    height:40px; 
+    padding-top: 80px;
+    margin-left: 60px; 
+}
+.master-card{
+    width:35px; 
+    height:20px; 
+   margin-bottom: 10px;
+    margin-left: 40px;
+}
+.footer{
+    height: 300px;
+    background-color: rgb(238, 238, 238);
+}
+.table{
+    font-weight: lighter;
+    font-family: futura-pt,sans-serif
+   }
+   .th-1{
+    padding-left: 200px;
+   padding-top: 30px;
+  
+   }
+   .th-2{
+    padding-left: 60px;
+    font-weight: bold;
+    padding-top: 30px;
+   }
+   .td-1{
+    padding-left: 200px;
+    padding-top: 30px;
+    
+  
+   }
+   .td-2{
+    padding-left: 70px;
+    padding-top: 30px;
+   }
+   .td-3{
+    padding-left: 200px;
+    padding-top: 10px;
+    
+  
+   }
+   .td-4{
+    padding-left: 70px;
+    padding-top: 10px;
+   }
